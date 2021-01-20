@@ -24,4 +24,4 @@ You have to create a new repository called **404-page** containing the HTML and 
 - [x] deploy on a Github page
 
 ## Optional
-- [ ] add an animation when mousing hover an element
+- [x] add an animation when mousing hover an element
