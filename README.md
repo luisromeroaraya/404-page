@@ -17,7 +17,7 @@ You have to create a new repository called **404-page** containing the HTML and 
 ## Instructions
 - [x] create the repository
 - [x] write an error 404 page in HTML and CSS
-- [x] try to use as much semantical HTML as possible
+- [x] try to use as much [semantical HTML](https://www.w3schools.com/html/html5_semantic_elements.asp) as possible
 - [x] add a back button that redirects to your Github profile
 - [x] change the position of your content on the page
 - [x] commit/push
