@@ -25,3 +25,5 @@ You have to create a new repository called **404-page** containing the HTML and 
 
 ## Optional
 - [x] add an animation when mousing hover an element
+
+Link to [404 page](https://luisromeroaraya.github.io/404-page/404.html)
