@@ -1,11 +1,37 @@
+* {
+    margin: 0;
+}
+
+html {
+    height: 100vh;
+    width: 100vw;
+    background-image: url(https://i.pinimg.com/originals/c5/9a/d2/c59ad2bd4ad2fbacd04017debc679ddb.gif);
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    text-shadow: 0 0 3px #333333;
+    
+}
+
 body {
-    background-image: url(https://media2.giphy.com/media/eHdZZgmLheaqRT6kVX/giphy.gif);
-    background-size: cover;
     height: 100%;
-    width: 100%;
+    width: 60%;
+    background-color: black;
+    margin: auto;
     color: white;
+    text-align: center;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    vertical-align :middle;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
 }
 
 header {
-    text-align: center;
+    font-size: 40px;
+    
+
 }
