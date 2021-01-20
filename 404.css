@@ -32,6 +32,12 @@ img {
 
 header {
     font-size: 40px;
-    
+}
 
+#pill {
+    transition: 3s ease-in-out;
+}
+
+#pill:hover {
+    transform: rotate(360deg);
 }
