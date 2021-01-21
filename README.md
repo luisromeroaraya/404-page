@@ -31,4 +31,4 @@ You have to create a new repository called **404-page** containing the HTML and 
 * [animate](https://daneden.github.io/animate.css/)
 * [CSS positioning](http://learnlayout.com/position.html)
 
-## Link to [404 page](https://luisromeroaraya.github.io/404-page/404.html)
+Link to [404 page](https://luisromeroaraya.github.io/404-page/)
